@@ -1,0 +1,15 @@
+D:\Github\GarbleSort\GarbleSort\bin\Debug\net6.0\GarbleSort.exe
+D:\Github\GarbleSort\GarbleSort\bin\Debug\net6.0\GarbleSort.deps.json
+D:\Github\GarbleSort\GarbleSort\bin\Debug\net6.0\GarbleSort.runtimeconfig.json
+D:\Github\GarbleSort\GarbleSort\bin\Debug\net6.0\GarbleSort.dll
+D:\Github\GarbleSort\GarbleSort\bin\Debug\net6.0\GarbleSort.pdb
+D:\Github\GarbleSort\GarbleSort\obj\Debug\net6.0\GarbleSort.csproj.AssemblyReference.cache
+D:\Github\GarbleSort\GarbleSort\obj\Debug\net6.0\GarbleSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\GarbleSort\GarbleSort\obj\Debug\net6.0\GarbleSort.AssemblyInfoInputs.cache
+D:\Github\GarbleSort\GarbleSort\obj\Debug\net6.0\GarbleSort.AssemblyInfo.cs
+D:\Github\GarbleSort\GarbleSort\obj\Debug\net6.0\GarbleSort.csproj.CoreCompileInputs.cache
+D:\Github\GarbleSort\GarbleSort\obj\Debug\net6.0\GarbleSort.dll
+D:\Github\GarbleSort\GarbleSort\obj\Debug\net6.0\refint\GarbleSort.dll
+D:\Github\GarbleSort\GarbleSort\obj\Debug\net6.0\GarbleSort.pdb
+D:\Github\GarbleSort\GarbleSort\obj\Debug\net6.0\GarbleSort.genruntimeconfig.cache
+D:\Github\GarbleSort\GarbleSort\obj\Debug\net6.0\ref\GarbleSort.dll
